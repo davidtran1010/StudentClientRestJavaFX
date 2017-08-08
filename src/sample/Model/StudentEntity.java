@@ -1,4 +1,4 @@
-package sample.Entity;
+package sample.Model;
 
 import javax.persistence.*;
 import java.io.Serializable;

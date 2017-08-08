@@ -1,7 +1,7 @@
-package sample;
+package sample.Model.DAO;
 
 import com.google.gson.annotations.SerializedName;
-import sample.Entity.StudentEntity;
+import sample.Model.StudentEntity;
 
 import java.util.List;
 

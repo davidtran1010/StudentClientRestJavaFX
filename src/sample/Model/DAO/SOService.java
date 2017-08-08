@@ -1,10 +1,8 @@
-package sample;
-
-import java.util.List;
+package sample.Model.DAO;
 
 import retrofit2.Call;
 import retrofit2.http.*;
-import sample.Entity.StudentEntity;
+import sample.Model.StudentEntity;
 
 public interface SOService {
 

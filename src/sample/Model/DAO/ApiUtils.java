@@ -1,4 +1,4 @@
-package sample;
+package sample.Model.DAO;
 
 public class ApiUtils {
 
